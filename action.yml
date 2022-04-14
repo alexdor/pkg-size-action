@@ -1,4 +1,4 @@
-name: 'pkg-size-action'
+name: 'pkg-size-action-alexdor'
 description: 'Report npm package size on pull-requests'
 author: 'Hiroki Osame <hiroki.osame@gmail.com>'
 branding:
